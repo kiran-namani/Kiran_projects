@@ -1,0 +1,8 @@
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\bin\Debug\JsonParser.exe.config
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\bin\Debug\JsonParser.exe
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\bin\Debug\JsonParser.pdb
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\obj\Debug\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\obj\Debug\JsonParser.exe
+C:\Users\Kiran\Downloads\JsonParser\JsonParser\JsonParser\obj\Debug\JsonParser.pdb
